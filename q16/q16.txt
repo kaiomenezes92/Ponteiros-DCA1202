@@ -1,0 +1,5 @@
+/* Resposta:
+Comparei as duas funções, com 100000 (cem mil) iterações.
+A diferença na execução dos dois programas é de 21.81 segundos. A função qsort é bem mais
+prática, pois ta muito bem otimizada pela linguagem.
+*/
