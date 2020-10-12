@@ -1,4 +1,4 @@
-# Ponteiros-DCA1202-
+# Ponteiros-DCA1202
 Lista de Ponteiros (Programação Avançada - DCA1202 - 2020.6)
 
 - Kaio Victor da Costa Menezes
